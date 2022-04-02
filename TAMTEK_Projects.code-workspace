@@ -1,1 +1,10 @@
-{}
+{
+    "folders": [
+        {
+            "path": "ESP32_AP"
+        },
+        {
+            "path": "ESP32_STA"
+        }
+    ]
+}
