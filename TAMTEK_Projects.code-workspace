@@ -3,6 +3,12 @@
         {
             "name": "ESP32_Core",
             "path": "ESP32_Core"
+        },
+        {
+            "path": "ESP32_STA"
+        },
+        {
+            "path": "ESP32_WEB"
         }
     ]
 }
