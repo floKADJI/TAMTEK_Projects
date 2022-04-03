@@ -1,5 +1,7 @@
 #include <Arduino.h>
 
+#include "DHT.h"        // including the library of DHT11 temperature and humidity sensor
+
 void setup() {
   // put your setup code here, to run once:
 }
