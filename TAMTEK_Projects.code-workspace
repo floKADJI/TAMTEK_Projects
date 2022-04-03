@@ -6,6 +6,10 @@
 		{
 			"name": "ESP32_Board",
 			"path": "ESP32_Board"
+		},
+		{
+			"name": "Arduino_Board",
+			"path": "Arduino_Board"
 		}
 	],
 	"settings": {}
