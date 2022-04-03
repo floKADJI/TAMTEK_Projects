@@ -1,22 +1,8 @@
 {
     "folders": [
         {
-            "path": "ESP32_STA"
-        },
-        {
-            "path": "ESP32_AP"
-        },
-        {
-            "name": "ESP32_Displays",
-            "path": "ESP32_Displays"
-        },
-        {
-            "name": "ESP32_Sensors",
-            "path": "ESP32_Sensors"
-        },
-        {
-            "name": "ESP32_Keypads",
-            "path": "ESP32_Keypads"
+            "name": "ESP32_DHT11",
+            "path": "ESP32_DHT11"
         }
     ]
 }
