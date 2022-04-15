@@ -17,6 +17,10 @@
         {
             "name": "ESP32_Keypads",
             "path": "ESP32_Keypads"
+        },
+        {
+            "name": "ESP32_WiFiMgr",
+            "path": "ESP32_WiFiMgr"
         }
     ]
 }
