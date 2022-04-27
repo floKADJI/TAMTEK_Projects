@@ -21,6 +21,10 @@
         {
             "name": "ESP32_WiFiMgr",
             "path": "ESP32_WiFiMgr"
+        },
+        {
+            "name": "ESP32_MQTT",
+            "path": "ESP32_MQTT"
         }
     ]
 }
